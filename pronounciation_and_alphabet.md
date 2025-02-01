@@ -20,4 +20,5 @@ The letter "c" is removed as its sound can be made from either "k" or "s".
 The letter "g" only can sound like the g in "gray", and NOT sound like a j, like in "giraffe".
 The letter "j" now uses all of those "j" sounds.
 The letter "q" is removed as any "qu" sound can be made with "kw" instead. "u", however, is still perfectly safe as it is important for various vowel sounds.
+The letter "x" is removed as any sound with an "x" can be made from either "ks" or "z".
 One last thing: Limit is pronounced in an American accent, except with the new pronounciation rules now given.
